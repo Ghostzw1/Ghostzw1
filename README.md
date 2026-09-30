@@ -60,8 +60,6 @@ It runs only in controlled, isolated environments and is never exposed publicly.
 | [Security-plus-sy0-701](https://github.com/Ghostzw1/Security-plus-sy0-701) | Security+ notes, self-quizzes and study tracking |
 | [cybersecurity-cert](https://github.com/Ghostzw1/cybersecurity-cert) | Labs, notes and exercises from the Google Cybersecurity Certificate |
 
-**Featured writeup:** [Add link to your best PortSwigger writeup]
-
 ---
 
 ## How I Approach Labs
