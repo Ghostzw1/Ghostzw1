@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Almaz
+# Hi, I'm Almaz
 
 **Aspiring Security Analyst | Builder | Security+ in Progress**
 
@@ -12,19 +12,19 @@ I learn by understanding how systems work, testing them safely, studying the evi
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🛡️ CompTIA Security+ (SY0-701)
-- 🔐 Google Cybersecurity Professional Certificate
-- 🌐 Web application security through PortSwigger Web Security Academy
-- 🐧 Linux, networking and log analysis fundamentals
-- 📝 A clear technical writeup for every serious lab
+- CompTIA Security+ (SY0-701)
+- Google Cybersecurity Professional Certificate
+- Web application security through PortSwigger Web Security Academy
+- Linux, networking and log analysis fundamentals
+- A clear technical writeup for every serious lab
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🌐 REALM *(Active Development)*
+### REALM *(Active Development)*
 
 A multi-world local commerce platform built for the Zimbabwean market, bringing together **Trade • Courier • Services • Real Estate**.
 
@@ -37,7 +37,7 @@ REALM began as a software project and is becoming one of my main security case s
 
 The application code is private for now. As it matures, I plan to publish sanitized security work: architecture diagrams, threat models, security reviews and lessons learned.
 
-### 👻 GhostMart *(Active Development)*
+### GhostMart *(Active Development)*
 
 A deliberately vulnerable marketplace built as a controlled training environment for the full security lifecycle:
 
@@ -52,7 +52,7 @@ It runs only in controlled, isolated environments and is never exposed publicly.
 
 ---
 
-## 📚 Public Work
+## Public Work
 
 | Repository | What's Inside |
 | --- | --- |
@@ -64,7 +64,7 @@ It runs only in controlled, isolated environments and is never exposed publicly.
 
 ---
 
-## 🔎 How I Approach Labs
+## How I Approach Labs
 
 Every serious lab I write up answers five questions:
 
@@ -78,7 +78,7 @@ Certificates show I'm learning the fundamentals. **My projects are where I prove
 
 ---
 
-## 📈 Next 12 Months
+## Next 12 Months
 
 - Pass CompTIA Security+
 - Publish increasingly detailed PortSwigger writeups
@@ -90,14 +90,13 @@ My long-term direction is defensive security: SOC analysis, incident response an
 
 ---
 
-## 🌱 Still Learning
+## Still Learning
 
 I'm early in cybersecurity, and I'm documenting the process here so my GitHub shows how my knowledge and technical thinking improve over time.
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📍 Zimbabwe
-- 💼 LinkedIn: [Add LinkedIn profile]
-- 📧 Email: [Add professional email]
+- Zimbabwe
+- Email: chikumbirikealmaz@gmail.com
