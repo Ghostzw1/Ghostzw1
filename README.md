@@ -1,100 +1,47 @@
 # Hi, I'm Almaz
 
-**Aspiring Security Analyst | Builder | Security+ in Progress**
+**Cybersecurity learner | Computer systems, Linux, networking, and SQL | Building REALM**
 
-I'm a self-taught builder from Zimbabwe working toward a career in cybersecurity by combining structured study with hands-on projects.
+I'm Almaz Zivai Chikumbirike, a self-directed learner in Zimbabwe working toward entry-level IT support and cybersecurity opportunities. I am building the fundamentals through structured study, practical exercises, and clear technical documentation.
 
-I learn by understanding how systems work, testing them safely, studying the evidence an attack leaves behind, fixing the weakness, and documenting the whole process.
+**Open to:** IT support, helpdesk, NOC, and junior SOC opportunities where I can contribute and continue learning.
 
-> **Offensive mindset. Defensive focus.**
+## Explore my learning portfolio
 
-**Open to:** IT Support, Helpdesk, NOC and Junior SOC opportunities.
+| Repository | What you can inspect |
+|---|---|
+| [Computer fundamentals](https://github.com/Ghostzw1/computer-fundamentals) | CPU, RAM, storage, BIOS/UEFI, and startup notes; Windows observation exercises assigned, results pending |
+| [Google Cybersecurity](https://github.com/Ghostzw1/cybersecurity-cert) | Courses 1–3 notes and current Course 4, Module 4 SQL study; individual lab evidence pending |
+| [CompTIA Security+](https://github.com/Ghostzw1/Security-plus-sy0-701) | Security concepts, revision notes, and study tracking; certification in progress |
+| [PortSwigger Web Security Academy](https://github.com/Ghostzw1/portswigger-labs) | A structure for authorized web-security write-ups; the first SQL injection report is pending |
 
----
+## Current focus
 
-## Current Focus
+- **Computer fundamentals:** how CPU, RAM, storage, BIOS/UEFI, and the operating system work together.
+- **Google Cybersecurity Professional Certificate:** Course 4, Module 4, studying SQL.
+- **CompTIA Security+ SY0-701:** continuing security study, currently replay attacks.
+- **Technical communication:** explaining what I did, what I observed, and what the result means.
 
-- CompTIA Security+ (SY0-701)
-- Google Cybersecurity Professional Certificate
-- Web application security through PortSwigger Web Security Academy
-- Linux, networking and log analysis fundamentals
-- A clear technical writeup for every serious lab
+Both certification programs are in progress. I track study notes and assigned exercises separately from completed practical results.
 
----
+## Projects and direction
 
-## Projects
+**REALM** is my local-commerce prototype for the Zimbabwean market, connecting the ideas of Trade, Courier, Services, and Real Estate. The code and project documents are private. A future public security review is part of my learning plan.
 
-### REALM *(Active Development)*
+**GhostMart** is a security-training project focused on the cycle of building, testing, detecting, investigating, fixing, and documenting. Public results will be linked as they are ready to review.
 
-A multi-world local commerce platform built for the Zimbabwean market, bringing together **Trade • Courier • Services • Real Estate**.
+My long-term direction is defensive security, including SOC analysis, incident response, and detection. My immediate priority is a strong foundation and practical work I can explain clearly.
 
-REALM began as a software project and is becoming one of my main security case studies. I'm using it to practise:
+## What each practical write-up should answer
 
-- Threat modelling and attack-surface mapping
-- Authentication and access control design
-- Logging and monitoring
-- Risk assessment and incident-response planning
-
-The application code is private for now. As it matures, I plan to publish sanitized security work: architecture diagrams, threat models, security reviews and lessons learned.
-
-### GhostMart *(Active Development)*
-
-A deliberately vulnerable marketplace built as a controlled training environment for the full security lifecycle:
-
-**Build → Attack → Detect → Investigate → Fix → Retest → Document**
-
-It runs only in controlled, isolated environments and is never exposed publicly. Work rotates between developer, attacker, defender and reviewer roles, covering areas such as:
-
-- SQL injection, XSS and broken access control
-- Authentication and session weaknesses
-- File upload and API vulnerabilities
-- Logging, remediation and incident investigation
-
----
-
-## Public Work
-
-| Repository | What's Inside |
-| --- | --- |
-| [portswigger-labs](https://github.com/Ghostzw1/portswigger-labs) | Web security lab investigations, remediation and lessons learned |
-| [Security-plus-sy0-701](https://github.com/Ghostzw1/Security-plus-sy0-701) | Security+ notes, self-quizzes and study tracking |
-| [cybersecurity-cert](https://github.com/Ghostzw1/cybersecurity-cert) | Labs, notes and exercises from the Google Cybersecurity Certificate |
-
----
-
-## How I Approach Labs
-
-Every serious lab I write up answers five questions:
-
-1. **What happened?**
-2. **Why did it work?**
-3. **How could I detect it?**
-4. **How would I fix it?**
-5. **How would I prove the fix worked?**
-
-Certificates show I'm learning the fundamentals. **My projects are where I prove I can apply them.**
-
----
-
-## Next 12 Months
-
-- Pass CompTIA Security+
-- Publish increasingly detailed PortSwigger writeups
-- Build a home monitoring lab and practise SIEM and log analysis
-- Publish a security review of REALM
-- Land my first role in IT support, NOC or Junior SOC
-
-My long-term direction is defensive security: SOC analysis, incident response and detection engineering.
-
----
-
-## Still Learning
-
-I'm early in cybersecurity, and I'm documenting the process here so my GitHub shows how my knowledge and technical thinking improve over time.
-
----
+1. What was the objective and authorized scope?
+2. What did I do, and why?
+3. What did I observe?
+4. What did I learn or correct?
+5. How did I verify the result, and what remains uncertain?
 
 ## Contact
 
-- Zimbabwe
-- Email: chikumbirikealmaz@gmail.com
+Zimbabwe · [Email](mailto:chikumbirikealmaz@gmail.com)
+
+*Written with AI assistance.*
