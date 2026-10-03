@@ -43,5 +43,3 @@ My long-term direction is defensive security, including SOC analysis, incident r
 ## Contact
 
 Zimbabwe · [Email](mailto:chikumbirikealmaz@gmail.com)
-
-*Written with AI assistance.*
